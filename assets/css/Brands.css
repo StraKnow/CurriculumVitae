@@ -1,0 +1,64 @@
+.brands {
+  color: #313437;
+  background-color: #fff;
+}
+
+.brands a {
+  display: block;
+  text-align: center;
+  padding: 40px 0;
+}
+
+@media (max-width:767px) {
+  .brands a {
+    padding: 30px 0;
+  }
+}
+
+.brands a img {
+  display: inline-block;
+  margin: 10px 20px;
+  vertical-align: middle;
+}
+
+.btn.btn-lg.text-white.hero-button .btn:hover {
+  color: #212529;
+  text-decoration: none;
+}
+
+.btn.btn-lg.text-white.hero-button.btn-verde {
+  background-color: #00bfa5;
+}
+
+.btn.btn-lg.text-white.hero-button.btn-verde:hover {
+  background-color: #00ab94;
+}
+
+.btn.btn-lg.hero-button.infoper {
+  background-color: #33b5e5;
+  color: white;
+}
+
+.btn.btn-lg.hero-button.infoper:hover {
+  background-color: #2ca1cc;
+}
+
+.btn.btn-lg.border-white.hero-button.morado {
+  background-color: #9933CC;
+  color: white;
+  border-color: white;
+}
+
+.btn.btn-lg.border-white.hero-button.morado:hover {
+  background-color: #8b30b8;
+}
+
+.btn.btn-outline-light.btn-lg.border-white.hero-button {
+  background-color: #FF8800;
+  color: white;
+}
+
+.btn.btn-outline-light.btn-lg.border-white.hero-button:hover {
+  background-color: #c86c04;
+}
+
